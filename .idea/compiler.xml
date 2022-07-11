@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="droptest" />
+        <module name="jamapp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="droptest" target="1.8" />
+      <module name="jamapp" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -10,7 +10,7 @@
   </prerequisites>
 
   <groupId>se.jocke</groupId>
-  <artifactId>droptest</artifactId>
+  <artifactId>jamapp</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 

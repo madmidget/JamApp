@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/droptest.iml" filepath="$PROJECT_DIR$/droptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jamapp.iml" filepath="$PROJECT_DIR$/jamapp.iml" />
     </modules>
   </component>
 </project>
